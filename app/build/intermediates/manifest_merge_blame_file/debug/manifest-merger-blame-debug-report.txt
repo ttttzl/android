@@ -1,0 +1,159 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.littlecar"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:8:5-65
+11-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:8:22-62
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:9:5-67
+12-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:9:22-64
+13
+14    <uses-feature android:name="android.hardware.camera" />
+14-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:10:5-60
+14-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:10:19-57
+15    <uses-feature android:name="android.hardware.camera.autofocus" />
+15-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:11:5-70
+15-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:11:19-67
+16
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:12:5-81
+17-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:12:22-78
+18    <uses-permission android:name="android.permission.BLUETOOTH" />
+18-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:13:5-68
+18-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:13:22-65
+19    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+19-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:14:5-74
+19-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:14:22-71
+20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+20-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:15:5-79
+20-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:15:22-76
+21    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+21-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:16:5-75
+21-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:16:22-72
+22    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+22-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:17:5-73
+22-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:17:22-70
+23    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+23-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:19:2-73
+23-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:19:19-70
+24    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+24-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:20:2-68
+24-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:20:19-65
+25
+26    <application
+26-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:22:5-75:19
+27        android:name="com.example.littlecar.MyApplication"
+27-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:27:9-59
+28        android:allowBackup="true"
+28-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:23:9-35
+29        android:debuggable="true"
+30        android:icon="@drawable/ic_launcher"
+30-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:24:9-45
+31        android:label="@string/app_name"
+31-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:25:9-41
+32        android:testOnly="true"
+33        android:theme="@style/AppTheme" >
+33-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:26:9-40
+34        <activity
+34-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:28:9-36:20
+35            android:name="com.example.littlecar.LoginActivity"
+35-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:29:13-63
+36            android:label="@string/app_name" >
+36-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:30:13-45
+37            <intent-filter>
+37-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:31:13-35:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:32:17-69
+38-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:32:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:34:17-77
+40-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:34:27-74
+41            </intent-filter>
+42        </activity>
+43        <activity
+43-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:37:9-40:20
+44            android:name="com.example.littlecar.MainActivity"
+44-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:38:13-62
+45            android:label="@string/app_name" >
+45-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:39:13-45
+46        </activity>
+47        <activity
+47-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:41:9-44:20
+48            android:name="com.example.littlecar.BasicModelActivity"
+48-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:42:13-68
+49            android:label="@string/title_activity_basic_model" >
+49-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:43:13-63
+50        </activity>
+51        <activity
+51-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:45:9-48:20
+52            android:name="com.example.littlecar.GravityModelActivity"
+52-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:46:13-70
+53            android:label="@string/title_activity_gravity_model" >
+53-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:47:13-65
+54        </activity>
+55        <activity
+55-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:49:9-52:20
+56            android:name="com.example.littlecar.RoadConditionActivity"
+56-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:50:13-71
+57            android:label="@string/title_activity_road_condition" >
+57-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:51:13-66
+58        </activity>
+59        <activity
+59-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:53:9-56:20
+60            android:name="com.example.littlecar.PathModelActivity"
+60-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:54:13-67
+61            android:label="@string/title_activity_bluetooth_match" >
+61-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:55:13-67
+62        </activity>
+63        <activity
+63-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:57:9-60:20
+64            android:name="com.example.littlecar.TouchModelActivity"
+64-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:58:13-68
+65            android:label="@string/title_activity_touch_model" >
+65-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:59:13-63
+66        </activity>
+67        <activity
+67-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:61:9-64:20
+68            android:name="com.example.littlecar.CameraSocketActivity"
+68-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:62:13-70
+69            android:label="@string/title_activity_camera_socket" >
+69-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:63:13-65
+70        </activity>
+71        <activity
+71-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:65:9-68:20
+72            android:name="com.example.littlecar.VoiceActivity"
+72-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:66:13-63
+73            android:label="@string/voice_mode" >
+73-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:67:13-47
+74        </activity>
+75        <activity
+75-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:69:9-74:20
+76            android:name="com.example.littlecar.DeviceListActivity"
+76-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:70:13-68
+77            android:configChanges="orientation|keyboardHidden"
+77-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:71:13-63
+78            android:label="@string/title_activity_device_list"
+78-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:72:13-63
+79            android:theme="@android:style/Theme.Dialog" >
+79-->D:\.__3C\C02zby\C02\code\android\app\src\main\AndroidManifest.xml:73:13-56
+80        </activity>
+81
+82        <meta-data
+82-->[com.android.support:support-v4:26.0.0] C:\Users\ZL Tang\.gradle\caches\transforms-2\files-2.1\af65d76596cf995049612f2c544af492\support-v4-26.0.0\AndroidManifest.xml:26:9-28:38
+83            android:name="android.support.VERSION"
+83-->[com.android.support:support-v4:26.0.0] C:\Users\ZL Tang\.gradle\caches\transforms-2\files-2.1\af65d76596cf995049612f2c544af492\support-v4-26.0.0\AndroidManifest.xml:27:13-51
+84            android:value="26.0.0" />
+84-->[com.android.support:support-v4:26.0.0] C:\Users\ZL Tang\.gradle\caches\transforms-2\files-2.1\af65d76596cf995049612f2c544af492\support-v4-26.0.0\AndroidManifest.xml:28:13-35
+85    </application>
+86
+87</manifest>

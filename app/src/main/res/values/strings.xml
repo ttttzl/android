@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>3
+
+    <string name="app_name">RunningCar</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="main_title">迷你小车</string>
+    <string name="basic_label">基础模式</string>
+    <string name="gravity_label">重力模式</string>
+    <string name="load_label">实时路况</string>
+    <string name="exit_model">退出</string>
+    <string name="title_activity_basic_model">BasicModelActivity</string>
+    <string name="title_activity_gravity_model">GravityModelActivity</string>
+    <string name="title_activity_road_condition">RoadConditionActivity</string>
+    <string name="title">实时路况</string>
+    <string name="roadButton1">预览</string>
+    <string name="roadButton2">关闭</string>
+    <string name="roadButton3">拍照</string>
+    <string name="title_activity_bluetooth_match">BluetoothMatchActivity</string>
+    <string name="on">Turn On</string>
+    <string name="Visible">对其他设备可见</string>
+    <string name="List">可用设备</string>
+    <string name="off">Turn Off</string>
+    <string name="title_activity_touch_model">TouchModelActivity</string>
+    <string name="touch_model">触摸球模式</string>
+    <string name="title_activity_camera_socket">CameraSocketActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_device_list">设备列表</string>
+    <string name="voice_mode">VoiceMode</string>
+
+</resources>

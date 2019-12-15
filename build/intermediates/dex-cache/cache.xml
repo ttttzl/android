@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZL Tang\.android\build-cache\bc234dc597bd0ca3ecc77c2a4868817a8a615b8b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="cbb26a4f659b17abc1f75ff735a607aa299697ac">
+        <dex dex="D:\.__3C\C02zby\C02\code\android\app\build\intermediates\pre-dexed\debug\classes_27151f11e786313809daf92cdf23798655185543.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\.__3C\C02zby\C02\code\android\app\libs\Msc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="612ce0b45e5d70383d8548bcfe6c8c5b1271617d">
+        <dex dex="D:\.__3C\C02zby\C02\code\android\app\build\intermediates\pre-dexed\debug\Msc_49e11244e5baf5c8af782e47a8738e138893fb4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZL Tang\.android\build-cache\e7271b75db3ae569c4b8cf59308bcc4eed1014a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\.__3C\C02zby\C02\code\android\app\build\intermediates\pre-dexed\debug\classes_f031441b7dd989e3fa460987dd7bf8e8cc776277.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZL Tang\.android\build-cache\94944b7d55d696299fa388699f925fe5bd0d9de0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8602ab07133e6ee182726fa27588420dba9d6d55">
+        <dex dex="D:\.__3C\C02zby\C02\code\android\app\build\intermediates\pre-dexed\debug\classes_e8b3b7f7e487b7da7fa05296cf0d9d1a45dc75ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZL Tang\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.0\db09a97f4f0db8892c1a0111a4b966f97920d082\support-annotations-26.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="db09a97f4f0db8892c1a0111a4b966f97920d082">
+        <dex dex="D:\.__3C\C02zby\C02\code\android\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0_113d006c39d077a93bc2beb0b7be84f271dd0d2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZL Tang\.android\build-cache\c9286516972779c9bcad27e94c2f356b92f33239\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="1a94a06ec585c9423a3c03bde1f7bf9268f83d66">
+        <dex dex="D:\.__3C\C02zby\C02\code\android\app\build\intermediates\pre-dexed\debug\classes_032651886a44dc5a4eec984968c151a0363a211a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZL Tang\.android\build-cache\12ba5daa4bfb56c20628b48322c8224d2bd2ce61\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="f7b86f1beb2b3625c6a1a5da6b5fc5294b64aea9">
+        <dex dex="D:\.__3C\C02zby\C02\code\android\app\build\intermediates\pre-dexed\debug\classes_d3615356bae8e1a061a78a5d722cd88390692d83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZL Tang\.android\build-cache\2330508dcb05f715621a85f89a17df45752b0443\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="b102f892442929c3457de1ef6a94f5dda3dd8864">
+        <dex dex="D:\.__3C\C02zby\C02\code\android\app\build\intermediates\pre-dexed\debug\classes_d4610dd49fdd319832eeb5c46a9a7106a70bd06b.jar" />
+    </item>
+
+</items>

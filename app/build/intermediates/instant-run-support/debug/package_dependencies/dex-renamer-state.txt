@@ -1,0 +1,7 @@
+#Fri Dec 15 23:24:44 CST 2017
+base.0=C\:\\Users\\dello\\Desktop\\3C\\C37\\code\\car\\littlecar1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\Msc_8fce551b7c5401bd7750184068390c993da75d68
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\dello\\Desktop\\3C\\C37\\code\\car\\littlecar1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_01fddc19f8b7dc36b97b42d7971f4f49947c4f7d\\classes.dex
+base.1=C\:\\Users\\dello\\Desktop\\3C\\C37\\code\\car\\littlecar1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_01fddc19f8b7dc36b97b42d7971f4f49947c4f7d
+file.0=C\:\\Users\\dello\\Desktop\\3C\\C37\\code\\car\\littlecar1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\Msc_8fce551b7c5401bd7750184068390c993da75d68\\classes.dex

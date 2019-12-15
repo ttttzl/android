@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_section66.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\section66.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_device_list.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\menu\\device_list.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_section55.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\section55.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ball.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\ball.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_section6.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\section6.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\6095677078b39271c987ed6f771f06a8\\support-media-compat-26.0.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_basic_model.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\layout\\activity_basic_model.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_section2.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\section2.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_bluetooth_match.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\menu\\bluetooth_match.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\6095677078b39271c987ed6f771f06a8\\support-media-compat-26.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\6095677078b39271c987ed6f771f06a8\\support-media-compat-26.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\6095677078b39271c987ed6f771f06a8\\support-media-compat-26.0.0\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\6095677078b39271c987ed6f771f06a8\\support-media-compat-26.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_road_condition.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\menu\\road_condition.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_section33.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\section33.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_second.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_login.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_camera_socket.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\menu\\camera_socket.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_section5.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\section5.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_voice_mode.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\layout\\voice_mode.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_touch_model.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\layout\\activity_touch_model.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_homeafter.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\homeafter.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\6095677078b39271c987ed6f771f06a8\\support-media-compat-26.0.0\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_intext.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\intext.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\6095677078b39271c987ed6f771f06a8\\support-media-compat-26.0.0\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_list.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_section1.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\section1.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_maintext.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\maintext.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_section1up.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\section1up.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_path_model.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\layout\\activity_path_model.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_road_condition.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\layout\\activity_road_condition.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_section3up.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\section3up.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gravity_model.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\layout\\activity_gravity_model.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_section2up.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\section2up.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_insubtext.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\insubtext.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_section11.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\section11.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_subtext2.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\subtext2.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_section4.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\section4.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_name.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\6095677078b39271c987ed6f771f06a8\\support-media-compat-26.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_circle.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\circle.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_basic_model.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\menu\\basic_model.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_section22.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\section22.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_touch_model.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\menu\\touch_model.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ccc.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\ccc.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_section4up.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\section4up.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_section3.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\section3.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_section5up.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\section5up.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_camera_socket.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\layout\\activity_camera_socket.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_gravity_model.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\menu\\gravity_model.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_subtext1.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\subtext1.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\b758f2df2dfc1b8314a2e4ca40419760\\support-compat-26.0.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_section6up.png.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\section6up.png"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_section44.xml.flat",
+        "source": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\src\\main\\res\\drawable-hdpi\\section44.xml"
+    },
+    {
+        "merged": "D:\\.__3C\\C02zby\\C02\\code\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\ZL Tang\\.gradle\\caches\\transforms-2\\files-2.1\\6095677078b39271c987ed6f771f06a8\\support-media-compat-26.0.0\\res\\layout\\notification_template_big_media.xml"
+    }
+]
